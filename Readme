@@ -1,0 +1,3 @@
+Add DNA strands to 2 files named: DNAStrand1.txt and DNAStrand2.txt.
+Program will find, count and compare the occurance of palindroms in each strand.
+THe output is located in OUTPUT.txt file.
