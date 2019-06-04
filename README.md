@@ -1,2 +1,2 @@
-# TetMethylation
-Simple app for cutting DNAStrand
+# RestrictionSites
+Simple app for finding  restriction Sites in DNAStrand
